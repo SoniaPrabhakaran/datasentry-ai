@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+outputs/
+Step_2_datasentryAI/
+Step3_datasentryAI/
+*.zip
